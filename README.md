@@ -1,1 +1,1 @@
-# gist-styled-components
+# my-styled-components
